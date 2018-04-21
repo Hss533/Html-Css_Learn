@@ -1,0 +1,151 @@
+.title{
+	width: 1130px;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+.titleleft{
+	float: left;
+	width: 300px;
+}
+.titleright{
+	float: right;
+	width: 600px;
+}
+.index{
+	width: 1050px;
+	height: 34.8px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	/*overflow: hidden;这个是干啥的？？*/
+}
+li{
+	float: left;
+}
+a.color:link,a.color:visited
+{
+	line-height:25px; 
+	display: block;
+	width: 60px;
+	background-color: #F2EACE;
+	text-align: center;
+	padding:5px; 
+	text-decoration: none;
+	font-size: 13px;
+	color: black;
+}
+a.color:hover,a.coloe:active
+{
+	background-color:  #F36F00;
+	color: #ffffff;
+}
+.search{
+
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 30px;
+	padding-top: 10px;
+	width: 1100px;
+	height: 30px;
+	background-color: #F36F00;
+
+}
+.text{
+	margin-top: 0.5px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1050px;
+	background-color: #f36f00;
+	padding-bottom: 6px;
+	padding-left: 80px;
+
+}
+.white
+{
+	text-decoration: none;
+	font-size: 14px;
+	color: #ffffff;
+}
+.choose{
+	border-bottom: 5px solid #e6b422;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 3px;
+	width: 1130px; 
+}
+.goods_name{
+	border-bottom: 1px solid #e7e7eb;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1130px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+.goods{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1130px;
+	height: 450px;
+	margin-top: 50px;
+}
+.goods_photos{
+	float: left;
+}
+.goods_message{
+	width: 350px;
+	margin-left: 80px;
+	float: left;
+}
+.goods_tables{
+
+	border-bottom: 1px dashed gray;
+	line-height: 30px;
+	width: 400px;
+}
+.goodser{
+
+	float:right;
+}
+
+.aliplay{
+
+	height:35px;
+	background-color: #f2f2b0;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	border:1px solid gray ;
+}
+
+a.blue{
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.center
+{
+	height: 50px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1200px;
+	text-align: center;
+}
+p.small
+{
+	font-size: 13px;
+	color: #000000;
+}
+a.little{
+	text-decoration: none;
+	color: #4d5aaf;
+
+}

@@ -1,0 +1,164 @@
+.title{
+
+		height: 50px;
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 30px;
+}
+.title_right{
+		font-size: 80%;
+		text-align: right;
+		line-height: 0.8em;
+}
+.index{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+
+}
+.ulll{
+		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+		overflow: hidden;
+	}
+.liii{
+	float: left;
+}
+p>span{
+	float: left;
+}
+p>span>a{
+	float: left;
+}
+a.orange:link,a.orange:visited{
+				
+	line-height:25px; 
+	display: block;
+	width: 60px;
+	background-color: #F2EACE;
+	text-align: center;
+	padding:2px; 
+	text-decoration: none;
+	font-size: 80%;
+	color: black;
+}
+a.apple{
+	 text-decoration: none;
+	 font-size: 13px;
+	 color: white;
+}
+a.black{
+	color: black;
+	text-align: right;
+	text-decoration: none;
+}
+
+a.orange:hover,a.orange:active{
+	background-color: #F36F00;
+	color: white;
+}
+.text{
+	height: 25px;
+	margin:0 auto;
+	margin-top:0.5px; 				
+	width: 1028px;
+	background-color:#F36F00;
+}
+.search{
+	padding: 8px;
+	padding-left: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;				
+	height: 25px;
+	width: 1000px;
+	background-color:#F36F00;
+}
+a{
+	color: blue;
+}
+.main{
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	width: 1000px;	
+	height: 500px;
+}
+.left{
+	float: left;
+}
+.right{
+	padding-left:50px; 
+	float:right;
+	border-left: 1px solid gray;
+}
+#blue{
+	color: blue;
+	font-family: "黑体";
+	font-weight:bold; 
+}
+table{
+	line-height: 2.5em;
+}
+.button{
+	color: white;
+	width: 200px;
+	height: 40px;
+	background-color:#FF6600; 
+	font-weight: bold;
+	font-family: "黑体";
+	font-size: 110%;
+}
+#buttons{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 200px;
+}
+.logins{
+		border:1px solid orange;
+		border-radius: 5px;
+		background-color: #F2EACE;
+		margin-top: 20px;
+		margin-bottom: 10px;
+		padding-top: 10px;
+		padding-bottom:  10px; 
+		padding-left:20px; 
+		padding-right: 20px;
+
+}
+.yes{
+	background-color: white;
+	border:1px solid orange;
+	padding: 5px;
+	margin: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+
+}
+.cups{
+	border-radius: 5px;
+	border:1px solid gray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left:30px; 
+	padding-right:30px; 
+	text-align: center;
+}
+.center{
+
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+p.small{
+	font-size: 13px;
+	margin-left:auto;
+	margin-right: auto; 
+	text-align: center;
+	width: 700px;
+}
